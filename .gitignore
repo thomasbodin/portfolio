@@ -1,2 +1,22 @@
-archive
-node_modules
+*.log
+*.tmp
+*.sublime-project
+*.sublime-workspace
+_ai-cache
+
+#### Directory : dependancies
+node_modules/
+bower_components/
+
+
+#### Dot Directory
+.idea/
+.sass-cache/
+
+
+#### Dot file
+.DS_Store
+
+
+#### Deploiement
+dploy.yaml
